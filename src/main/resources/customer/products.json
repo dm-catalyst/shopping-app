@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Mikrofala",
+    "quantity": 3,
+    "price": 380,
+    "category": "AGD"
+  },
+  {
+    "name": "Lodówka",
+    "quantity": 3,
+    "price": 3300,
+    "category": "AGD"
+  },
+  {
+    "name": "Okap",
+    "quantity": 8,
+    "price": 380,
+    "category": "AGD"
+  },
+  {
+    "name": "TV",
+    "quantity": 8,
+    "price": 8300,
+    "category": "RTV"
+  },
+  {
+    "name": "Monitor",
+    "quantity": 1,
+    "price": 383,
+    "category": "RTV"
+  },
+  {
+    "name": "Komputer",
+    "quantity": 3,
+    "price": 380,
+    "category": "RTV"
+  },
+  {
+    "name": "Pomidory",
+    "quantity": 3,
+    "price": 3.8,
+    "category": "Żywność"
+  },
+  {
+    "name": "Jajka",
+    "quantity": 3,
+    "price": 8.3,
+    "category": "Żywność"
+  }
+]
